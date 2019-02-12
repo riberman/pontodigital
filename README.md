@@ -2,4 +2,4 @@
 
 ##MongoDB Kotlin IntelliJ IDEA
 
-[Blog do Da2k](https://www.patrickweb.tk)
+[Patrick Ferro Ribeiro](https://www.patrickweb.tk)
